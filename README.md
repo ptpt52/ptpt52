@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 - 🛠️ **Languages:** C, Shell
-- 🚀 **Projects:** [natflow](https://github.com/ptpt52/natflow)
+- 🚀 **Projects:** [natflow](https://github.com/ptpt52/natflow) [x-wrt](https://github.com/x-wrt/x-wrt) [natcap](https://github.com/ptpt52/natcap)
 - 🧬 **Philosophy:** Keep it simple. Automate everything. Learn by doing.
 
 ---
