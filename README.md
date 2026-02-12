@@ -40,9 +40,5 @@ I love building fast, efficient, and robust systems — especially those that br
 
 ---
 
-![ptpt52’s github stats](https://github-readme-stats.vercel.app/api?username=ptpt52&show_icons=true&theme=radical&count_private=true)
-
----
-
 > _If you want to go fast, go alone. If you want to go far, go together._
 
