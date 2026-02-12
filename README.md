@@ -34,7 +34,7 @@ I love building fast, efficient, and robust systems — especially those that br
 
 ## 🔥 Fun Facts
 
-- Once debugged a kernel panic before my morning coffee.
+- Once debugged a kernel panic before my breakfast.
 - My shells have more history than Wikipedia.
 - I believe in: _No shortcuts, just the right tools._
 
